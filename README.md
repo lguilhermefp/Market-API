@@ -34,7 +34,7 @@ No __console do Gerenciador de Pacotes__ do __Visual Studio__, digite
 e
 ```update-database```
 
-_Está pronto._ Basta compilar o projeto com o __IIS Express__ novamente e a API estará funcionando com persistência de dados no database _marketdb_ banco de dados __mySql__!
+_Está pronto._ Basta compilar o projeto com o __IIS Express__ novamente e a API estará funcionando com persistência de dados no database _marketdb_ da instância do banco de dados __mySql__
 
 ### Documentação e teste
 
