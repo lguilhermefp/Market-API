@@ -1,4 +1,4 @@
-![Alt text](screenshot-api.png?raw=true "Swagger Screenshot")
+![Alt text](screenshot-api.png?raw=true "Title")
 
 # Market-API
 
