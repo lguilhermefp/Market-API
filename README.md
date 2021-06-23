@@ -42,7 +42,7 @@ Para acessar a documentação da API basta abrir o __Chrome Web Browser__ na por
 ### Como consumir
 
 No primeiro acesso à API, há apenas uma requisição autorizada:
-```Get /api/Usuarios/authenticate```.
+```Post /api/Usuarios/authenticate```.
 
 Informe no corpo da requisição o objeto JSON com as informações de usuário padrão:
 ~~~json
