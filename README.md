@@ -1,3 +1,5 @@
+![Alt text](screenshot-api.png?raw=true "Swagger Screenshot")
+
 # Market-API
 
 ## ASP .NET API para manipulação de produtos com autenticação para usuários
