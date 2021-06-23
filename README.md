@@ -3,7 +3,7 @@
 # Market-API
 
 ## ASP .NET API para manipulação de produtos com autenticação para usuários
-#### Parte do Processo Seletivo WLS Soluções
+#### Parte de Processo Seletivo da WLS Soluções
 
 ### Para rodar o projeto
 
@@ -24,6 +24,8 @@ Isso gera um arquivo _appsettings.json_. Reescreva-o com o seguinte código de c
 ~~~
 Lembre-se de inserir a senha correta no campo _password_.
 Você também pode personalizar a configuração acima para que se adeque ao seu sistema.
+
+Antes de proseguir, instale todas as dependências descritas no arquivo _Usuarios-Produtos-API.csproj_
 
 Compile o projeto com o __IIS Express__.
 
