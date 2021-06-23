@@ -2,7 +2,7 @@
 
 # Market-API
 
-## ASP .NET API para manipulação de produtos com autenticação para usuários
+## API ASP .NET para manipulação de produtos com autenticação para usuários
 #### Parte de Processo Seletivo da WLS Soluções
 
 ### Para rodar o projeto
@@ -84,7 +84,7 @@ Por incrível que pareça, isso impediu o funcionamento do programa e levei hora
 Constuir os controladores não foi uma tarefa difícil graças ao Entity Framework, mas tive o desafio de descobrir como levar informações do usuário do banco de dados até o função de autenticação do Bearer, o que não seria tarefa tão difícil não fosse eu ter que resolver paralelamente a confusão com os comandos de configuração que acabei de citar.
 
 Outro problema satisfatório de se resolver foi o da encriptação convincente da senha, que já citei no tópico anterior.
-Ele me levou a descobrir a existência das FPE(Format Preserving Encryption).
+Ele me levou a descobrir a existência das FPE(Format Preserving Encryption), cuja existência me surpreendeu muito.
 
 Para garantir que eu era capaz de fazer o programa funcionar completamente como eu desejava, fiz aplicações teste antes, uma vez que estou mais habituado com APIs criadas com __Javascript__, até garantir segurança com todas as funcionalidades que o desafio propunha.
 
