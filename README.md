@@ -3,7 +3,6 @@
 # Market-API
 
 ## API ASP .NET para manipulação de produtos com autenticação para usuários
-#### Parte de Processo Seletivo da WLS Soluções
 
 ### Para rodar o projeto
 
